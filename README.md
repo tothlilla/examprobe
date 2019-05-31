@@ -1,3 +1,3 @@
 # examprobe
 
-This repo is a practice to solve an easy merge conflict.
+This repo is a practice how to solve a merge conflict.
